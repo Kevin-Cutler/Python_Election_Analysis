@@ -14,8 +14,6 @@
 
               ### Inspect the data before importing CSV file into a text editor
 
-              <img width="300" alt="CSV_SnapShot" src="https://user-images.githubusercontent.com/88467263/133942909-9255b218-d0f0-4bf4-80dd-cf1e56cf7343.PNG">
-
 ![](Resources/CSV_SnapShot.png)
 
 In my analysis I started by importing the CSV file from Seth and Tom and loading it into VSCode (Screen Shot Above). My focus is to determine, how many columns consist in the file, what type of data I am working with and if the data needed to be converted before reading the file into VSCode. The data consist of 3 columns provided, the 1st with the ballot ID of each person who casted their vote. The 2nd column listed the county and the 3rd lists the name of each candidate. After determining that there were no unusual gaps in the data, I was able to start developing the steps to work with in my text editor.
