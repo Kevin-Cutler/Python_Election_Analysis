@@ -14,7 +14,7 @@
 
               ### Inspect the data before importing CSV file into a text editor
 
-<img width="300" alt="CSV_SnapShot" src="https://user-images.githubusercontent.com/88467263/133942909-9255b218-d0f0-4bf4-80dd-cf1e56cf7343.PNG">
+              <img width="300" alt="CSV_SnapShot" src="https://user-images.githubusercontent.com/88467263/133942909-9255b218-d0f0-4bf4-80dd-cf1e56cf7343.PNG">
 
 ![](Resources/CSV_SnapShot.png)
 
