@@ -32,18 +32,18 @@ _________
 # The voter turnout for each county and percentage of votes from each county out of the total count.
 ________________________________________
 
-![](Resources/County_Votes.png)
+<img width="225" alt="County_Votes" src="https://user-images.githubusercontent.com/88467263/133943189-aa857f47-5a9b-4b99-9e91-ec708bde2ee9.PNG">
 
 _____________________
 # The county with the highest turnout
 ______________________
 
-![](Resources/Largest_County_Turnout.png)
+<img width="221" alt="Largest_County_Turnout" src="https://user-images.githubusercontent.com/88467263/133943199-dff67822-239b-4dbf-aec7-145ab33681ee.PNG">
 
 ___________
 # Election-Audit Results
 
-![](Resources/SS_Counties1.png)
+<img width="353" alt="SS_Counties1" src="https://user-images.githubusercontent.com/88467263/133943216-6694e79a-406f-45b6-90af-57083ca2f484.PNG">
 
 
 
@@ -55,31 +55,30 @@ _______________
 
 
 #### Below is the Total votes for this election and the script used to calculate and display the Total Votes to the Terminal.
-![](Resources/Total_Votes.png)
+<img width="233" alt="Total_Votes" src="https://user-images.githubusercontent.com/88467263/133943210-2e4ab679-0de0-4ff7-85ed-3dfa34880908.PNG">
 
-![](Resources/Example_3.png)
+<img width="504" alt="Example_3" src="https://user-images.githubusercontent.com/88467263/133943222-9767a12c-026f-42a2-a312-d7de9ea416c7.PNG">
 
 ________
                 * Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 _____________
-![](Resources/Largest_County_Turnout.png)
+<img width="221" alt="Largest_County_Turnout" src="https://user-images.githubusercontent.com/88467263/133943237-1bc9f11f-b0af-4f04-9528-062f3b7aebea.PNG">
 
 _____________
          * Denver the county with the largest number of votes
 ___________
 
-![](Resources/Largest_County_Turnout.png)
-
+<img width="221" alt="Largest_County_Turnout" src="https://user-images.githubusercontent.com/88467263/133943238-ac62bb82-b627-471f-a1aa-a7283bebeba3.PNG">
 ____________
          * Breakdown of the number of votes and the percentage of the total votes each candidate received.
 _________________
 
 
-![](Resources/SS_Candidates1.png)
+<img width="308" alt="SS_Candidates1" src="https://user-images.githubusercontent.com/88467263/133943242-7690ef8f-ec74-4218-98b3-ec7ba45b8988.PNG">
 ____
 # This Script was used to calculate and print the county votes to the terminal
 
-![](Resources/Example_3.png)
+<img width="504" alt="Example_3" src="https://user-images.githubusercontent.com/88467263/133943251-9589da5f-deeb-4ab5-bff4-79994fb7d95f.PNG">
 
 ___________
 * Breakdown of The Winning Candidate  
@@ -87,11 +86,11 @@ ___________
         * Winning Candidate Percentage of Total Votes
 _____________
 
-![](Resources/Winner_Candidate.png)
+<img width="253" alt="Winner_Candidate" src="https://user-images.githubusercontent.com/88467263/133943260-e272a798-664f-4df4-978d-20e1a270faa9.PNG">
 
 ______
 # This Script to Print The Winning Candidate Votes
-![](Resources/Example_4.png)
+<img width="516" alt="Example_4" src="https://user-images.githubusercontent.com/88467263/133943264-f5006d06-b140-4438-a49a-915bc5523b76.PNG">
 
 
 
