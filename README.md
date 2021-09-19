@@ -28,9 +28,8 @@ _________
 
 # The voter turnout for each county and percentage of votes from each county out of the total count.
 ________________________________________
+
 ![](Resources/County_Votes.png)
-
-
 
 _____________________
 # The county with the highest turnout
