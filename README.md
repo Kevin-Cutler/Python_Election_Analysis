@@ -62,6 +62,8 @@ _______________
 ________
                 * Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 _____________
+
+
 <img width="221" alt="Largest_County_Turnout" src="https://user-images.githubusercontent.com/88467263/133943237-1bc9f11f-b0af-4f04-9528-062f3b7aebea.PNG">
 
 _____________
@@ -69,7 +71,9 @@ _____________
 ___________
 
 <img width="221" alt="Largest_County_Turnout" src="https://user-images.githubusercontent.com/88467263/133943238-ac62bb82-b627-471f-a1aa-a7283bebeba3.PNG">
+
 ____________
+
          * Breakdown of the number of votes and the percentage of the total votes each candidate received.
 _________________
 
@@ -81,15 +85,19 @@ ____
 <img width="504" alt="Example_3" src="https://user-images.githubusercontent.com/88467263/133943251-9589da5f-deeb-4ab5-bff4-79994fb7d95f.PNG">
 
 ___________
+
 * Breakdown of The Winning Candidate  
     * Winning Candidate Vote Count 
         * Winning Candidate Percentage of Total Votes
 _____________
 
+
 <img width="253" alt="Winner_Candidate" src="https://user-images.githubusercontent.com/88467263/133943260-e272a798-664f-4df4-978d-20e1a270faa9.PNG">
 
 ______
+
 # This Script to Print The Winning Candidate Votes
+
 <img width="516" alt="Example_4" src="https://user-images.githubusercontent.com/88467263/133943264-f5006d06-b140-4438-a49a-915bc5523b76.PNG">
 
 
