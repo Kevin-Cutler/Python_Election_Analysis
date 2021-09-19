@@ -81,6 +81,7 @@ _________________
 <img width="308" alt="SS_Candidates1" src="https://user-images.githubusercontent.com/88467263/133943242-7690ef8f-ec74-4218-98b3-ec7ba45b8988.PNG">
 ____
 # This Script was used to calculate and print the county votes to the terminal
+_______________
 
 <img width="504" alt="Example_3" src="https://user-images.githubusercontent.com/88467263/133943251-9589da5f-deeb-4ab5-bff4-79994fb7d95f.PNG">
 
