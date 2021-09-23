@@ -14,11 +14,11 @@
 
 ### Inspect the data before importing CSV file into a text editor
 
-![](Resources/CSV_SnapShot.png)
+![](https://github.com/Kevin-Cutler/Python_Election_Analysis/blob/master/Resources/CSV_SnapShot.PNG?raw=true)
 
 In my analysis I started by importing the CSV file from Seth and Tom and loading it into VSCode (Screen Shot Above). My focus is to determine, how many columns consist in the file, what type of data I am working with and if the data needed to be converted before reading the file into VSCode. The data consist of 3 columns provided, the 1st with the ballot ID of each person who casted their vote. The 2nd column listed the county and the 3rd lists the name of each candidate. After determining that there were no unusual gaps in the data, I was able to start developing the steps to work with in my text editor.
 
-![](Resources/Example_Code_Importing_Variable_Assignment_List_Dictonaries.png)
+![](https://github.com/Kevin-Cutler/Python_Election_Analysis/blob/master/Resources/Example_Code_Importing_Variable_Assignment_List_Dictonaries.PNG?raw=true)
 
 After loading the CSV file and reviewing the data I created variables to import the data needed based on the request. To determine the total number of votes cast I used a couple variables which assisted while I looped through the data. I relied on a total votes counter that calculated each row in the CSV file. The total number of votes calculated is 369,711 which was helpful later when determining the percentages for each candidate and county votes. I used a loop that checked each row of the dataset whle also using a variable "candidate_name= row[2]", this checked the 3rd column in the row for each candidates name. I used this variable to store the candidates names in a list "candidate_options =[ ]" to output a list of candidates who received votes. I then added the candidate names using "candidate_options.append(candidate_name)" to add the candidate names into storage for later use. I used this same technique for the county in the additional requirement of this analysis. Using a dictonary called "candidate_votes" I was able to store each counted occurence of each candidates name through "candidate_votes[candidate_name]". In the final step of my analysis for candidate vote and county votes I calculated the percentage of votes by dividing each individual sum of votes by the total overall.
 
@@ -29,7 +29,7 @@ _________
 # The voter turnout for each county and percentage of votes from each county out of the total count.
 ________________________________________
 
-![](Resources/County_Votes.png)
+![](https://github.com/Kevin-Cutler/Python_Election_Analysis/blob/master/Resources/County_Votes.PNG?raw=true)
 
 _____________________
 # The county with the highest turnout
